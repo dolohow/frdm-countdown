@@ -21,9 +21,18 @@
 *.dylib
 
 # Executables
+*.bin
 *.exe
 *.out
 *.app
 *.i*86
 *.x86_64
 *.hex
+
+# Logs
+*.htm
+
+# Keil specific
+RTE/
+Listings/
+Objects/
